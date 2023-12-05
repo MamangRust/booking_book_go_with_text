@@ -1,0 +1,1 @@
+TglPinjam: 2023-11-05, UserID: 3, TglKembali: 2023-11-12, TglPengembalian: 2023-11-18, Status: Pinjam, Denda: 1440000
